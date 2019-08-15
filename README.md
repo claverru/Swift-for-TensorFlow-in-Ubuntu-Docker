@@ -1,4 +1,4 @@
-# Swift for TensorFlow on Ubuntu Docker
+# Swift for TensorFlow in Ubuntu Docker
 
 ## Download
 

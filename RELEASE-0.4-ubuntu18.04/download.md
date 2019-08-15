@@ -1,0 +1,1 @@
+https://storage.googleapis.com/swift-tensorflow-artifacts/releases/v0.4/rc4/swift-tensorflow-RELEASE-0.4-ubuntu18.04.tar.gz
